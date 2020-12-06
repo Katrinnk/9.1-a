@@ -1,0 +1,2 @@
+E:\vs\9.1\Debug\9.1.exe
+E:\vs\9.1\Debug\9.1.pdb
